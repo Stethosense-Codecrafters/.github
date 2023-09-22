@@ -1,4 +1,9 @@
 # Stethosense
+Main Source code : [https://github.com/Stethosense-Codecrafters/stethosense]
+
+Frontend         : [https://github.com/Stethosense-Codecrafters/frontend]
+
+
 "Stethosense" has the potential to positively impact the medical field by promoting proactive health management, personalized care, and data-driven decision-making. Through better medication adherence, improved dietary habits, regular exercise, and environmental precautions, the app aims to reduce healthcare costs and enhance human well-being by fostering healthier lifestyles and minimizing the burden of preventable diseases.
 
 1. User Authentication and Profile Management:
